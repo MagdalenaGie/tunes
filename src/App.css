@@ -1,0 +1,23 @@
+.App {
+  
+}
+
+.AppMainHeader{
+  padding: 20px;
+  background-color: #551281;
+  color: #ffffff;
+  display:flex;
+  margin: 0;
+}
+
+.AppMainHeader .Icon{
+  padding: 5px;
+  border: 1px solid white;
+  border-radius: 5px;
+}
+
+.AppMainHeader h1{
+  font-size: x-large;
+  font-weight: 500;
+  margin: 0 10px;
+}
