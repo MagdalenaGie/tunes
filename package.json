@@ -1,6 +1,6 @@
 {
   "name": "tunes-app",
-  "homepage": "https://MagdalenaGie.github.io/tunes",
+  "homepage": "https://magdalenagie.github.io/tunes",
   "version": "0.1.0",
   "private": true,
   "proxy": "https://itunes.apple.com/",
